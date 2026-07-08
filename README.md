@@ -17,7 +17,6 @@ I am a Full-Stack Web & Mobile Product Engineer passionate about building scalab
 
 ## 📈 My GitHub Stats
 
-https://gh-stats.com/api/Technsjs
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Technsjs&theme=github-compact)
 
 
@@ -42,11 +41,11 @@ https://gh-stats.com/api/Technsjs
 - 🔭 I’m currently working on ...
 - Reventory
 - Klorsr
-- Briconnix
+- Coluvo
 
 - - 🌱 I’m currently learning ...
 - Elixir
-- Deep Rust
+- Rust
 
 - - 🤔 I’m looking for help with ...
 - Mobile Application Product Development
@@ -56,7 +55,8 @@ https://gh-stats.com/api/Technsjs
 * **LinkedIn:** [https://www.linkedin.com/in/oladimeji-taiwo-26ab42272/]
 * **Website/Portfolio:** [https://portfolio-beige-rho-23.vercel.app/]
 * **Email:** [techidimex@gmail.com]
-* 
+
+![GitHub Stats](https://gh-stats.com/api/Technsjs)
 <!--
 
 
