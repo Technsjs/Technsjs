@@ -56,7 +56,6 @@ I am a Full-Stack Web & Mobile Product Engineer passionate about building scalab
 * **Website/Portfolio:** [https://portfolio-beige-rho-23.vercel.app/]
 * **Email:** [techidimex@gmail.com]
 
-![GitHub Stats](https://gh-stats.com/api/Technsjs)
 <!--
 
 
