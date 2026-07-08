@@ -17,7 +17,11 @@ I am a Full-Stack Web & Mobile Product Engineer passionate about building scalab
 
 ## 📈 My GitHub Stats
 
+![GitHub Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api?username=Technsjs)
+
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Technsjs&theme=github-compact)
+
+
 ## 🚀 Tech Stack
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
