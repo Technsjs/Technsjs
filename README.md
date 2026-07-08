@@ -17,8 +17,7 @@ I am a Full-Stack Web & Mobile Product Engineer passionate about building scalab
 
 ## 📈 My GitHub Stats
 
-![GitHub Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api?username=Technsjs)
-
+https://gh-stats.com/api/Technsjs
 ![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Technsjs&theme=github-compact)
 
 
