@@ -17,9 +17,9 @@ I am a Full-Stack Web & Mobile Product Engineer passionate about building scalab
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Technsjs&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=Technsjs&theme=github-compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Technsjs&layout=compact&theme=radical)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ---
 
 - 🔭 I’m currently working on ...
